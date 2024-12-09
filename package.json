@@ -1,0 +1,15 @@
+{
+  "name": "boas-praticas-de-css---atv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass main.scss dist/main.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "sass": "^1.82.0"
+  }
+}
